@@ -1,0 +1,9 @@
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\staticwebassets\PaymentContext.Domain.StaticWebAssets.Manifest.cache
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\staticwebassets\PaymentContext.Domain.StaticWebAssets.xml
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\scopedcss\bundle\PaymentContext.Domain.styles.css
+C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.RazorTargetAssemblyInfo.cache
