@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Domain", "PaymentContext.Domain\PaymentContext.Domain.csproj", "{6BCFE801-F40A-4118-89A7-C7DA59E33659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentContext.Domain", "PaymentContext.Domain\PaymentContext.Domain.csproj", "{6BCFE801-F40A-4118-89A7-C7DA59E33659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Shared", "PaymentContext.Shared\PaymentContext.Shared.csproj", "{1FEA5075-C5EC-4AF9-AFCA-1F40A3CAE90C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentContext.Shared", "PaymentContext.Shared\PaymentContext.Shared.csproj", "{1FEA5075-C5EC-4AF9-AFCA-1F40A3CAE90C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Tests", "PaymentContext.Tests\PaymentContext.Tests.csproj", "{D89763FA-4ABE-4834-9B82-63DDFE46E818}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Tests", "PaymentContext.Tests\PaymentContext.Tests.csproj", "{A080A259-FEBF-45D8-8904-D20087FCAE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{1FEA5075-C5EC-4AF9-AFCA-1F40A3CAE90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FEA5075-C5EC-4AF9-AFCA-1F40A3CAE90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FEA5075-C5EC-4AF9-AFCA-1F40A3CAE90C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D89763FA-4ABE-4834-9B82-63DDFE46E818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D89763FA-4ABE-4834-9B82-63DDFE46E818}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D89763FA-4ABE-4834-9B82-63DDFE46E818}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D89763FA-4ABE-4834-9B82-63DDFE46E818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A080A259-FEBF-45D8-8904-D20087FCAE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A080A259-FEBF-45D8-8904-D20087FCAE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A080A259-FEBF-45D8-8904-D20087FCAE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A080A259-FEBF-45D8-8904-D20087FCAE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
