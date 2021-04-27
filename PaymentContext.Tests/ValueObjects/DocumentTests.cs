@@ -1,9 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.ValueObjects;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace PaymentContext.Tests.ValueObjects
 {

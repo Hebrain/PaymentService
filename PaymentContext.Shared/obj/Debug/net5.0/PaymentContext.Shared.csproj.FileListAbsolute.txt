@@ -22,4 +22,3 @@ C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.
 C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\ref\PaymentContext.Shared.dll
 C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.pdb
 C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.genruntimeconfig.cache
-C:\Users\hebra\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net5.0\PaymentContext.Shared.csprojAssemblyReference.cache
